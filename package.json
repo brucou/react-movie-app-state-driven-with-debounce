@@ -1,0 +1,30 @@
+{
+  "name": "react-movie-app-state-driven-with-debounce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "emitonoff": "0.1.1",
+    "hyperscript-helpers": "3.0.3",
+    "json-patch-es6": "2.0.6",
+    "react": "16.6.3",
+    "react-dom": "16.6.3",
+    "react-hyperscript": "3.2.0",
+    "react-state-driven": "0.8.0",
+    "state-transducer": "0.13.2",
+    "superagent": "4.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "@types/react": "16.7.17",
+    "@types/react-dom": "16.0.11",
+    "@types/react-hyperscript": "3.0.3",
+    "@types/superagent": "3.8.5",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
